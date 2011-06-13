@@ -1,0 +1,12 @@
+Build.PL
+Changes
+ignore.txt
+lib/MooseX/Role/Forking.pm
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/
+t/00-load.t
+t/01-roleing.t
+t/MooseX/Role/Forking.pm

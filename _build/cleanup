@@ -1,0 +1,5 @@
+do{ my $x = {
+       'MooseX-Role-Forking-0.01' => 1,
+       'MooseX-Role-Forking-*' => 1
+     };
+$x; }

@@ -1,0 +1,21 @@
+---
+name: MooseX-Role-Forking
+version: 0.01
+author:
+  - 'Jarrod Overson <jsoverson+cpan@googlemail.com>'
+abstract: Moose role for forking
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+build_requires:
+  Test::More: 0
+configure_requires:
+  Module::Build: 0.35
+provides:
+  MooseX::Role::Forking:
+    file: lib/MooseX/Role/Forking.pm
+    version: 0.01
+generated_by: Module::Build version 0.35
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
